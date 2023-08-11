@@ -37,9 +37,7 @@ For example, in "abbaca" we could remove "bb" since the letters are adjacent and
 <p><strong>Constraints:</strong></p>
 
 <ul>
-
     <li><code>1 <= s.length <= 10<sup>5</sup></code></li>
     <li><code>s</code> consists of lowercase English letters.</li>
-
 </ul>
 
